@@ -1,0 +1,60 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: #202533;
+}
+
+.container {
+    background-color: #202533;
+    margin:150px;
+}
+
+#title {
+    display:flex;
+    justify-content: center;
+    color:#5583FF;
+
+}
+
+.CoinScoreStyle {
+    text-align: center;
+    
+}
+
+.textAlign {
+    text-align: center;
+}
+
+#flipBtn {
+    padding:15px;
+    align-items: center;
+    margin-bottom:35px;
+    width:200px;
+    height:50px;
+    font-size:16px;
+    
+    font-weight:500;
+    background-color: #6A86D5;
+    color: #202533;
+    border:none;
+    border-radius:5px;
+}
+
+#resultDiv {
+    font-weight: 700;
+    font-size:23px;
+    color:#5583FF;
+    height:35px;
+}
+#resultTxt {
+    color:#5583FF;;
+    font-size:17px;
+}
+
+.scoreDivStyle {
+    display:flex;
+    justify-content: space-between;
+    color:#5583FF;
+}
